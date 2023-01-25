@@ -1,0 +1,56 @@
+Index: .idea/workspace.xml
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,7 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="02e246ea-fa91-4277-9cfa-c4de7bdfd2f7" name="Changes" comment="" />
++    <list default="true" id="02e246ea-fa91-4277-9cfa-c4de7bdfd2f7" name="Changes" comment="add dz1">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -81,6 +83,21 @@
+       <option name="presentableId" value="Default" />
+       <updated>1673302025428</updated>
+     </task>
++    <task id="LOCAL-00001" summary="add dz1">
++      <created>1673468684740</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1673468684740</updated>
++    </task>
++    <task id="LOCAL-00002" summary="add dz1">
++      <created>1673468844828</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1673468844828</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -94,7 +111,7 @@
+                   <entry key="branch">
+                     <value>
+                       <list>
+-                        <option value="master" />
++                        <option value="main" />
+                       </list>
+                     </value>
+                   </entry>
+@@ -110,6 +127,8 @@
+     <ignored-roots>
+       <path value="$PROJECT_DIR$" />
+     </ignored-roots>
++    <MESSAGE value="add dz1" />
++    <option name="LAST_COMMIT_MESSAGE" value="add dz1" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>

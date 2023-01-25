@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b52a359b-99e8-4e4b-a567-c87c62e77017" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_25_01_2023,_22_03_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_25_01_2023,_22_03_[Changes]1/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_25_01_2023__22_03__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webtodo/webtodo1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webtodo/webtodo1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webtodo/webtodo1/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webtodo/webtodo1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webtodo/webtodo1/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webtodo/webtodo1/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webtodo/webtodo1/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webtodo/webtodo1/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webtodo/webtodo1/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webtodo/webtodo1/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webtodo/webtodo1/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webtodo/webtodo1/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webtodo/webtodo1/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webtodo/webtodo1/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webtodo/webtodo1/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webtodo/webtodo1/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webtodo/webtodo1/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webtodo/webtodo1/src/setupTests.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2KparyFWxwVe7yTKwOlMFddwlK7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b52a359b-99e8-4e4b-a567-c87c62e77017" name="Changes" comment="" />
+      <created>1674674186221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674674186221</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="dz2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
