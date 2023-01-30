@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b52a359b-99e8-4e4b-a567-c87c62e77017" name="Changes" comment="working dz2">
-      <change afterPath="$PROJECT_DIR$/webtodo/webtodo1/src/components/Users.js" afterDir="false" />
+    <list default="true" id="b52a359b-99e8-4e4b-a567-c87c62e77017" name="Changes" comment="working dz2.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webtodo/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/webtodo/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webtodo/webtodo1/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/webtodo/webtodo1/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webtodo/webtodo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/webtodo/webtodo/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674680547634</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="working dz2.">
+      <created>1675033054900</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675033054900</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +100,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding dz2" />
     <MESSAGE value="working dz2" />
-    <option name="LAST_COMMIT_MESSAGE" value="working dz2" />
+    <MESSAGE value="working dz2." />
+    <option name="LAST_COMMIT_MESSAGE" value="working dz2." />
   </component>
 </project>
